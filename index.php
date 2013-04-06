@@ -36,7 +36,7 @@
             </a>
             <a href="http://acgindex.sinaapp.com/" target="_blank">
             	<img src="static/p-2-acgindex.jpg" />
-                <p>简单易懂的魔法禁书目录</p>
+                <p>简单易懂的魔法禁书目录（坑</p>
             </a>
             <a href="http://www.030buy.com/" target="_blank">
                 <img src="static/p-3-030.jpg" />

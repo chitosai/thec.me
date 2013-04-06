@@ -12,7 +12,7 @@ a{color:#333;text-decoration:none;}
 .floatR{float:right;}
 .wrapper{width:1000px;margin:0 auto;position:relative;}
 
-a, #arrow, #projects p, #projects img{
+a, #projects p, #projects img{
 	-moz-transition:0.2s ease all;
 	-webkit-transition:0.2s ease all;
 	-o-transition:0.2s ease all;
