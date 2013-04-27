@@ -46,6 +46,7 @@ a, #projects p, #projects img{
 	font-size:20px;
 	width:185px;
 	margin:20px auto 30px;
+	outline: none;
 }
 #upAndDown:hover{
 	color:#999;
