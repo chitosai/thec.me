@@ -55,6 +55,8 @@ a, #projects p, #projects img{
 	background:#666;
 	vertical-align:middle;
 	margin-top:-6px;
+	width: 26px;
+	height: 26px;
 	-webkit-transition: all .6s ease;
 	-moz-transition: all .6s ease;
 	-ms-transition: all .6s ease;
@@ -70,6 +72,10 @@ a, #projects p, #projects img{
 }
 #upAndDown:hover #arrow{
 	background:#999;
+}
+#projects img{
+	width: 248px;
+	height: 149px;
 }
 #projects a{
 	border:1px solid #000;
