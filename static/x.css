@@ -134,5 +134,7 @@ a, #projects p, #projects img{
 	margin:20px 0;
 }
 #me ul img{
-	vertical-align:bottom;
+	vertical-align:middle;
+	position: relative;
+	top: -1px;
 }
